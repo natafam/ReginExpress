@@ -36,6 +36,23 @@ Wszystkie prawa autorskie do apliakcji i jej kodu źródłowego należą do jej 
 Ten projekt jest objęty licencją MIT. Możesz go używać, modyfikować i rozpowszechniać na warunkach opisanych w licencji MIT. Szczegółowe informacje znajdą się w pliku LICENSE.
 
 
+Projekt ReginExpress został wybrany do działania na licencji MIT z kilku powodów:
+
+#### Swoboda użytkowania:
+Licencja MIT zapewnia szeroką swobodę użytkowania, modyfikacji i rozpowszechniania oprogramowania. Każdy, kto uzyska kopię aplikacji ReginExpress, może ją używać w dowolny sposób, zarówno w celach komercyjnych, jak i niekomercyjnych, bez większych ograniczeń.
+
+#### Otwartość wpółpracy:
+Licencja MIT promuje otwartość projektu, zachęcając do kontrybucji i współpracy. Dzięki tej licencji inni programiści mogą przyczyniać się do rozwoju ReginExpress poprzez zgłaszanie problemów, proponowanie zmian i tworzenie pull requestów.
+
+#### Minimalizm:
+Licencja MIT jest prostą i zwięzłą licencją. Jest łatwa do zrozumienia i nie narzuca wielu restrykcji, co ułatwia korzystanie z projektu ReginExpress przez innych deweloperów.
+
+#### Popularność:
+Licencja MIT jest jedną z najbardziej popularnych licencji otwartego oprogramowania. To oznacza, że wielu programistów jest zaznajomionych z tą licencją i czuje się komfortowo korzystając z projektów opartych na niej.
+
+W rezultacie, wybór licencji MIT dla projektu ReginExpress zapewnia elastyczność, zachęca do współpracy i daje użytkownikom większą pewność prawną w zakresie korzystania z aplikacji kurierskiej.
+
+
 ## Kontakt
 
 Jeśli masz jakieś pytania dotyczące aplikacji lub napotkałeś na jakieś problemy z jej instalacją lub użytkowaniem, proszę o kontakt z nami pod adresem ntlmichalowska@gmail.com.
