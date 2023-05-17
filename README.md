@@ -40,4 +40,4 @@ Ten projekt jest objęty licencją MIT. Możesz go używać, modyfikować i rozp
 
 Jeśli masz jakieś pytania dotyczące aplikacji lub napotkałeś na jakieś problemy z jej instalacją lub użytkowaniem, proszę o kontakt z nami pod adresem ntlmichalowska@gmail.com.
 
-Dziękujemy za skorzystanie z naszej aplikacji i życzymy udanych dostaw!
+Dziękuję za skorzystanie z mojej aplikacji i życzę udanych dostaw!
